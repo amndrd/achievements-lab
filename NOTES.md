@@ -1,4 +1,5 @@
 # Notes
 
-Premiere PR : declenche Pull Shark + YOLO.
-Deuxieme PR : commit co-ecrit pour Pair Extraordinaire.
+Premiere PR : Pull Shark + YOLO.
+Deuxieme PR : commit co-ecrit.
+Troisieme PR : commit co-ecrit avec un compte GitHub reel (Pair Extraordinaire).
