@@ -1,2 +1,3 @@
 # achievements-lab
-Bac a sable pour debloquer les achievements GitHub
+
+Bac à sable pour débloquer les achievements GitHub.
